@@ -1,0 +1,1 @@
+Meu primeiro projeto com Java. Construção de API com SpringBoot, uma (todolist) com Back-End das funcionalidades padrões de uma aplicação em lista de tarefas. Tive ajuda da ApiDog e Lambok e utilização de sistema para segurança e autenticidade do usuário com BCrypt.
